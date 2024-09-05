@@ -4,4 +4,4 @@
 
 ### Markedown Practice
 
-![Desert in New Mexico](mark-down/new_mexico.jpg)
+![Desert in New Mexico](markdown-practice/mark-down/new_mexico.jpg)
