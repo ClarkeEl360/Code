@@ -4,4 +4,4 @@
 
 ### Markedown Practice
 
-!(chinese.jpg)
+![Desert in New Mexico](mark-down/new_mexico.jpg)
