@@ -1,2 +1,1 @@
-
-	![alt text](new_mexico.jpg)
+![alt text](new_mexico.jpg)
