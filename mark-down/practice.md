@@ -4,4 +4,4 @@
 
 ### Markedown Practice
 
-![alt text](chinese.jpg)
+!(chinese.jpg)
